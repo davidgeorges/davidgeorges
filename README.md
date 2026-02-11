@@ -1,15 +1,47 @@
-# Hello ! Welcome to my github page ! 👋
+# 👋 Hello, I am David
 
-✨ Here you can find all my repositories ! ✨
+##   Full Stack Java / Python / ReactJS / AngularJS Developer
 
-As a FullStack Developper I worked on differents projects made for School or Personnal project, you can see all of them on this page. 🔭
+**Ex-HSBC | Java Spring Boot / React JS Developer | CI/CD & Migration**
 
-Do not hesitate to take a look at my projects and maybe give me ideas to improve them ! 👯
+---
+
+## 🎯 Ongoing Personal Project
+
+### 📱 **MirrorCode** - Technical Assessment and Recruitment SaaS
+*Comprehensive platform for automating hiring processes: centralization of the candidate pipeline, orchestration of secure technical tests, and performance analytics.*
+
+- 🏗️ Modern architecture : API REST Java 21 / Spring Boot 3
+- 🗄️ PostgreSQL relational database
+- 🔐 OAuth2 + JWT and role management
+
+**Stack:** Java 21, Spring Boot 3, React.js, PostgresSQL, OAuth2, JWT
+
+🔗 [Backend](https://github.com/davidgeorges/MirrorCode-Backend) | [Frontend](https://github.com/davidgeorges/MirrorCode-Frontend) 
+
+---
+
+## 🚀 Technologies & Compétences
+
+### Backend
+![Java](https://img.shields.io/badge/Java_17/21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### Frontend
+![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![AngularJS](https://img.shields.io/badge/angular.js-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+### Bases de données & ORM
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PostgresSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+
+### DevOps & Sécurité
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
+![Ansible](https://img.shields.io/badge/ansible-EE0000?style=plastic&logo=ansible&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 
-## Main programming languages :
 
-<code><img height="40" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" alt="react" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"></code>
-<code><img height="40" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" alt="react" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png"></code>
